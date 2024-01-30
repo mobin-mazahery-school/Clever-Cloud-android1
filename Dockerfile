@@ -1,5 +1,5 @@
 ARG DOCKER_ANDROID_VERSION
-FROM budtmo/docker-android:base_14.0
+FROM budtmo/docker-android:emulator_14
 
 #==================
 # Android Packages
